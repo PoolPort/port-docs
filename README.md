@@ -1,8 +1,8 @@
 # Main documents of all ports implemented in PoolPort
 
-** This documents only useful for PoolPort developers and those who want to create their own gateway without PoolPort. **
+**This documents only useful for PoolPort developers and those who want to create their own gateway without PoolPort.**
 
-** If you use PoolPort, you don't needs to read this documents at all. **
+**If you use PoolPort, you don't needs to read this documents at all.**
 
 ## Update
 
